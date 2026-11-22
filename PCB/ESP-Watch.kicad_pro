@@ -573,7 +573,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "",
+    "bom_export_filename": "../gerbers/BOM.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -623,12 +623,30 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Field4",
+          "name": "Field4",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": false,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -691,7 +709,7 @@
         "uuid": "27fd5905-3b71-4bec-9bad-46976b157c31"
       }
     ],
-    "used_designators": "#FLG1-3,#PWR1-2,#PWR8,#PWR10,#PWR18,#PWR20,#PWR22-23,#PWR26-27,#PWR29-31,#PWR33,#PWR35-36,#PWR38-40,#PWR64-69,#PWR72-80,#PWR86-88,C10-11,C20-29,D1,D3-5,H1-4,J1,J3-4,L2,Q1,Q3,R2-3,R5-6,R8-9,R16-17,R19,U2-3",
+    "used_designators": "#FLG1-3,#PWR1-2,#PWR8,#PWR10,#PWR18,#PWR20,#PWR22-23,#PWR26-27,#PWR29-31,#PWR33,#PWR35-36,#PWR38-40,#PWR64-69,#PWR72-80,#PWR86-88,C10-11,C20-29,D1,D3-5,H1-4,J1,J3-4,L2,Q1,Q3,R2-3,R5-6,R8-9,R16-17,R19,U2-3,U7",
     "variants": []
   },
   "sheets": [
