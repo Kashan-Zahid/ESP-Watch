@@ -49,9 +49,10 @@ See [BOM.csv](BOM.csv) for the component list.
 ## PCB Manufacturing
 
 Manufacturing files are provided:
+## Manufacturing Files
 
-- [Gerber Files](gerbers.zip)
-- [Drill Files](drill%20files.zip)
+- [Gerber ZIP](PCB/Manufacturing/Gerbers/gerbers.zip)
+- [Drill Files ZIP](PCB/Manufacturing/Drill/drill%20files.zip)
 
 ## Repository Structure
 
