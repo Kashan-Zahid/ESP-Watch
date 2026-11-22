@@ -159,8 +159,6 @@ ESP-Watch/
 | C1, C10 | 2 | 10 µF | 0402 |
 | C20, C21 | 2 | 4.7 µF / 50 V | 0603 |
 | C7, C9 | 2 | TBD | 0402 |
- 
-TOTAL COST 
 
 ## License
 
