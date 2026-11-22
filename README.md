@@ -174,10 +174,7 @@ Gets hand hands on custom pcb as well as with all components solder them and joi
  
 Total Cost=(components+pcb+casing+display+ battery) + shipping + Custom Taxes)
 
- Total Cost=$23+$8+3$+$17+$0.5)+$34+(Custom may vary)
- 
- Total Cost=$85.5 without customs taxes
-
+ Total Cost=33284 include shiiping plus 6k pkr of custom tax which may very
 
 ## License
 
