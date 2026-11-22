@@ -37,6 +37,11 @@ Files:
 
 The `CAD/` directory contains STEP models for the project assembly and mechanical components.
 
+## CAD Files
+
+- [Full Assembly STEP](CAD/Assembled.step)
+- [Editable Onshape CAD Source](https://cad.onshape.com/documents/0475103ff53e11203d71d0a9/w/9e66317858d85ca3e5dbdae6/e/355ee132cc1edf71c3e9b317?renderMode=0&leftPanel=false&uiState=6b02c09f49034aba0762357d)
+
 ## Bill of Materials
 
 See [BOM.csv](BOM.csv) for the component list.
