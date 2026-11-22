@@ -1,9 +1,9 @@
 # ESP-Watch 
-An ESP  powered watch where you can customize the the ui as well  the case and all other thing 
+An ESP  powered watch where you can customize the the ui as well  the case and all other thing and its usiing bare chip of ESP-S3 with pcb within antenna 
 
 ## Project Overview
 
-ESP-Watch is a DIY smartwatch project featuring a custom-designed PCB, electronic components, and firmware.
+ESP-Watch is a DIY smartwatch project featuring a custom-designed PCB, electronic components, and firmware.Its a hobby based poject as well as its a way of DIY thing i love to do hardwares 
 
 ## Features
 
@@ -21,7 +21,6 @@ The hardware was designed using KiCad.
 Project files:
 - PCB layout
 - Electrical schematic
-- 3D STEP model
 - Gerber files
 - Drill files
 
@@ -159,6 +158,15 @@ ESP-Watch/
 | C1, C10 | 2 | 10 µF | 0402 |
 | C20, C21 | 2 | 4.7 µF / 50 V | 0603 |
 | C7, C9 | 2 | TBD | 0402 |
+
+## Cost
+ 
+Total Cost=(components+pcb+casing+display+ battery) + shipping + Custom Taxes)
+
+ Total Cost=$23+$8+3$+$17+$0.5)+$34+(Custom may vary)
+ 
+ Total Cost=$85.5 without customs taxes
+
 
 ## License
 
