@@ -100,8 +100,8 @@ ESP-Watch/
  
 | Designator | Qty | Value | Footprint |
 |---|---|---|---|
-| L2 | 1 | 47 µH, 0.5 A | Taiyo Yuden NR-40xx |
-| L1 | 1 | TBD | 0402 |
+| L2 | 1 | 47 µH, 0.5 A |L_0402_1005Metric
+| L1 | 1 |7.5nH  | 0402 | L_0402_1005Metric
  
 ### Crystals and Antenna
  
@@ -159,6 +159,11 @@ ESP-Watch/
 | C20, C21 | 2 | 4.7 µF / 50 V | 0603 |
 | C7, C9 | 2 | TBD | 0402 |
 
+
+## how to assemble
+
+Gets hand hands on custom pcb as well as with all components solder them and join oter components like vibrator motor , battery , and a display late that 3d printed cases put them together join them and screw it 
+ later upload the firmware and wait to gt upload you can use ardino ide and wallah you have your own customized ESP-Watch
 ## Cost
  
 Total Cost=(components+pcb+casing+display+ battery) + shipping + Custom Taxes)
