@@ -1,8 +1,0 @@
-Part,Type,Quantity,Unit price (PKR),Line total (PKR),Link,Vendor,Funding,Notes
-pcb,PCB,1,8803.00,8803.00,http://jlpcb.com,jlpcb,Grant,pcba it include shiiping of it
-Battery,Part,1,140.00,140.00,https://digilog.pk/products/lithium-polymer-battery-200mah-3-7v-in-pakistan,digilog.pk,Grant,
-Display,Part,1,4750.00,4750.00,https://ewall.com.pk/product_view/1.54-inch-Paper-Screen-e-link-Dispaly-e-paper-module/2128,ewall.com.pk,Grant,
-case,3D printed,1,220.00,220.00,https://jlc3dp.com,jlc3d,Grant,
-shipping of enclouse,Shipping,1,3750.00,3750.00,,,Grant,
-customs,Tax or fee,1,6000.00,6000.00,,,Grant,
-Total,,,,23663.00,,,,
